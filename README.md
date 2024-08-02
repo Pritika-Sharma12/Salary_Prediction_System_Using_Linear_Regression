@@ -1,0 +1,2 @@
+# Salary_Prediction_System_Using_Linear_Regression
+Salary Prediction System using Linear Regression
